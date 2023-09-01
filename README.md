@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [my personal applications](http://www.mandhsolutions.com/)
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=7801029515310263631](https://play.google.com/store/apps/dev?id=7801029515310263631)
+- 👨‍💻 All of my projects are available at [Google Play Store](https://play.google.com/store/apps/dev?id=7801029515310263631)
 
 - 📫 How to reach me **hunkarpurtul@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/h%C3%BCnkar-purtul-9bb3108b/](https://www.linkedin.com/in/h%C3%BCnkar-purtul-9bb3108b/)
+- 📄 Know about my experiences [on LinkedIn](https://www.linkedin.com/in/h%C3%BCnkar-purtul-9bb3108b/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
